@@ -39,7 +39,6 @@ figma-course/
 This project is licensed under the **MIT** license. For more details, refer to the `LICENSE` file.
 
 ## 📞 Contact
-## 📞 Contact
 For any questions or suggestions regarding this project, feel free to reach out via email: nihadqurbanli204@gmail.com
 
 
